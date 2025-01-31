@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainland&label=Profile%20views&color=0e75b6&style=flat" alt="mainland" /> </p>
 
-- 🔭 I’m currently working on **chatbot_project**
+- I’m currently working on **chatbot_project**
 
-- 👨‍💻 All of my projects are available at [http://mkinlan.github.io](http://mkinlan.github.io)
+- All of my projects are available at [http://mkinlan.github.io](http://mkinlan.github.io)
 
-- 💬 Ask me about **R programming, SQL, communicating about data**
+- My most recent projects are: <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a> and <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML</a>
+
+- 💬 Ask me about **R programming, SQL, Python, data science, or communicating about data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
