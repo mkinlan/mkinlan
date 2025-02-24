@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainland&label=Profile%20views&color=0e75b6&style=flat" alt="mainland" /> </p>
 
-- I’m currently working on **chatbot_project**
+My most recent projects are:
+- <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a>,
+- <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML</a>,
+- <a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a>, my new R package
 
-- All of my projects are available at [http://mkinlan.github.io](http://mkinlan.github.io)
+Check out my full portfolio at [http://mkinlan.github.io](http://mkinlan.github.io)
 
-- My most recent projects are: <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a>, <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML</a>,
-   and my new R package, <a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a>
-
-- 💬 Ask me about **R programming, SQL, Python, data science, or communicating about data**
+💬 Ask me about **R programming, SQL, Python, data science, or communicating about data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
