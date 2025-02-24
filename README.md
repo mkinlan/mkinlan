@@ -7,7 +7,8 @@
 
 - All of my projects are available at [http://mkinlan.github.io](http://mkinlan.github.io)
 
-- My most recent projects are: <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a> and <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML</a>
+- My most recent projects are: <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a>, <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML</a>,
+   and my new R package, <a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a>
 
 - 💬 Ask me about **R programming, SQL, Python, data science, or communicating about data**
 
