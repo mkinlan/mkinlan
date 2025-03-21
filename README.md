@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainland&label=Profile%20views&color=0e75b6&style=flat" alt="mainland" /> </p>
 
 My most recent projects are:
-- <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a>,
-- <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML</a>,
+- <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle using Shiny for Python!</a>,
+- <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML </a>, - a tutorial on using machine learning to automate a simple mapping task
 - <a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a>, my new R package
 
 Check out my full portfolio at [http://mkinlan.github.io](http://mkinlan.github.io)
