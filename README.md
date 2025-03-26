@@ -3,12 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainland&label=Profile%20views&color=0e75b6&style=flat" alt="mainland" /> </p>
 
-My most recent projects are:
-- <a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a> -  my new R package, which helps you save good data by filtering based on a percentage of nulls
-- <a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML </a> - a tutorial on using machine learning to automate a simple mapping task
-- <a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a> - a more challenging version of Wordle using Shiny for Python!
+<h3>Most Recent Projects</h3>
+<ul>
+<li><a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a> -  my new R package, which helps you save good data by filtering based on a percentage of nulls</li>
+<li><a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML </a> - a tutorial on using machine learning to automate a simple mapping task</li>
+<li><a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a> - a more challenging version of Wordle using Shiny for Python!</li>
+</ul>
 
-<bold>TidyTuesday Projects<bold>
+<h3>TidyTuesday Projects</h3>
 I've started participating in <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.    
 
 Check out my full portfolio at [http://mkinlan.github.io](http://mkinlan.github.io)
