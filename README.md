@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainland&label=Profile%20views&color=0e75b6&style=flat" alt="mainland" /> </p>
 
-<h3>Most Recent Projects</h3>
+<h3>Most Recent GitHub Projects</h3>
 <ul>
 <li><a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a> -  my new R package, which helps you save good data by filtering based on a percentage of nulls</li>
 <li><a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML </a> - a tutorial on using machine learning to automate a simple mapping task</li>
@@ -11,9 +11,20 @@
 </ul>
 
 <h3>TidyTuesday Projects</h3>
-I've started participating in <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.    
 
-Check out my full portfolio at [http://mkinlan.github.io](http://mkinlan.github.io)
+<p>I've started participating in <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.  
+</p>  
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Repo</th>
+  </tr>
+  <tr>
+    <td>2025-03-25</td>
+    <td><a href="https://github.com/mkinlan/amazon_annual_reports" target="_blank">Text Data from Amazon's Annual Reports</a></td>
+  </tr>
+</table>
 
 💬 Ask me about **R programming, SQL, Python, data science, or communicating about data**
 
