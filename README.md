@@ -21,6 +21,10 @@
     <th>Repo</th>
   </tr>
   <tr>
+    <td>2025-04-15</td>
+    <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-04-15" target="_blank">Penguin Data</a></td>
+  </tr> 
+  <tr>
     <td>2025-03-25</td>
     <td><a href="https://github.com/mkinlan/amazon_annual_reports" target="_blank">Text Data from Amazon's Annual Reports</a></td>
   </tr>
