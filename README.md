@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mainland&label=Profile%20views&color=0e75b6&style=flat" alt="mainland" /> </p>
 
-<h3>Most Recent GitHub Projects</h3>
+<h3> Sample of GitHub Projects</h3>
 <ul>
 <li><a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a> -  my new R package, which helps you save good data by filtering based on a percentage of nulls</li>
 <li><a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML </a> - a tutorial on using machine learning to automate a simple mapping task</li>
@@ -20,6 +20,10 @@
     <th>Date</th>
     <th>Repo</th>
   </tr>
+  <tr>
+    <td>2025-04-22</td>
+    <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-04-22" target="_blank">Fatal Crash Data</a></td>
+  </tr> 
   <tr>
     <td>2025-04-15</td>
     <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-04-15" target="_blank">Penguin Data</a></td>
