@@ -21,6 +21,10 @@
     <th>Repo</th>
   </tr>
   <tr>
+    <td>2025-05-13</td>
+    <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-05-13" target="_blank">Seismic Events</a></td>
+  </tr>
+  <tr>
     <td>2025-04-22</td>
     <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-04-22" target="_blank">Fatal Crash Data</a></td>
   </tr> 
