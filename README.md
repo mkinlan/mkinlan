@@ -5,14 +5,14 @@
 
 <h3> Sample of GitHub Projects</h3>
 <ul>
-<li><a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a> -  my new R package, which helps you save good data by filtering based on a percentage of nulls</li>
+<li><a href="https://github.com/mkinlan/saveR" target="_blank">saveR</a> -  a small R package which helps you save good data by filtering based on a percentage of nulls</li>
 <li><a href="https://github.com/mkinlan/automate_ML" target="_blank">Automate ML </a> - a tutorial on using machine learning to automate a simple mapping task</li>
 <li><a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a> - a more challenging version of Wordle using Shiny for Python!</li>
 </ul>
 
-<h3>TidyTuesday Projects</h3>
+<h3> 2025 TidyTuesday Projects</h3>
 
-<p>I've started participating in <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.  
+<p>Past projects from <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.  
 </p>  
 
 <table>
