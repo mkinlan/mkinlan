@@ -12,33 +12,10 @@
 
 <h3> TidyTuesday Projects</h3>
 
-<p>Past projects from <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.  
+<p>My <a href="https://github.com/mkinlan/tidy-tuesday" target="_blank">past projects</a> from <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.  
 </p>  
 
-<table>
-  <tr>
-    <th>Date</th>
-    <th>Repo</th>
-  </tr>
-  <tr>
-    <td>2025-05-13</td>
-    <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-05-13" target="_blank">Seismic Events</a></td>
-  </tr>
-  <tr>
-    <td>2025-04-22</td>
-    <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-04-22" target="_blank">Fatal Crash Data</a></td>
-  </tr> 
-  <tr>
-    <td>2025-04-15</td>
-    <td><a href="https://github.com/mkinlan/tidy-tuesday/tree/main/2025-04-15" target="_blank">Penguin Data</a></td>
-  </tr> 
-  <tr>
-    <td>2025-03-25</td>
-    <td><a href="https://github.com/mkinlan/amazon_annual_reports" target="_blank">Text Data from Amazon's Annual Reports</a></td>
-  </tr>
-</table>
-
-💬 Ask me about **R programming, SQL, Python, data science, or communicating about data**
+💬 Ask me about **Data science and communicating about data!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
