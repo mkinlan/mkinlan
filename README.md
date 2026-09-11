@@ -10,7 +10,7 @@
 <li><a href="https://github.com/mkinlan/7_letter_wordle" target="_blank">7-Letter Wordle</a> - a more challenging version of Wordle using Shiny for Python!</li>
 </ul>
 
-<h3> 2025 TidyTuesday Projects</h3>
+<h3> TidyTuesday Projects</h3>
 
 <p>Past projects from <a href="https://github.com/rfordatascience/tidytuesday/blob/main/README.md" target="_blank">TidyTuesday</a>, a weekly social data project organized by <a href="https://dslc.io" target="_blank">The Data Science Learning Community</a>.  
 </p>  
