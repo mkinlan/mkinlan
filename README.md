@@ -7,4 +7,4 @@
 <p> Slides and additional resources from my talk, Staying Organized Across Machines: Practical Workflows for Data Scientists with Busy Brains
 </p>
 
-<h3 align="left">Connect with me:<a href="https://linkedin.com/in/morgana-kinlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morgana-kinlan" height="20" width="30" /></a></h3>
+<a href="https://linkedin.com/in/morgana-kinlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morgana-kinlan" height="20" width="30" /></a>
